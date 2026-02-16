@@ -2,7 +2,7 @@
 
 ## About Me
 
-Senior ETL Developer | Data Professional | SQL • Teradata • Oracle • Redshift • Airflow • MSTR  
+**Senior ETL Developer | Data Professional | SQL • Teradata • Oracle • Redshift • Airflow • MSTR**  
 
 I am an analytics-focused professional with 13+ years of experience designing, developing, and optimizing data solutions in enterprise environments across Telecom, Banking, and Finance domains. My expertise spans ETL development, database design, performance tuning, and end-to-end data pipeline management using Teradata, Oracle SQL/PLSQL, Amazon Redshift, Airflow, and data visualization tools such as MSTR and Tableau.
 
