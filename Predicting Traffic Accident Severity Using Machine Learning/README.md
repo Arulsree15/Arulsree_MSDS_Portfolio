@@ -133,7 +133,3 @@ Traffic Safety Facts Annual Report.
 U.S. Department of Transportation.
 
 ---
-
-## Author
-
-**Arulsree Mozhi** 
