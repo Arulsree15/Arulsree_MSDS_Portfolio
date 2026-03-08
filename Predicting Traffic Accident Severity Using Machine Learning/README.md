@@ -1,10 +1,6 @@
 # Predicting Traffic Accident Severity Using Machine Learning
 
 **Author:** Arulsree Mozhi, Thangaraj Santhakumar  
-**Institution:** Bellevue University  
-**Course:** DSC680 – Applied Data Science  
-**Instructor:** Prof. Amirfarrokh Iranitalab  
-**Project:** Term Project 2 – Milestone 3  
 **Date:** February 15, 2026  
 
 ---
@@ -100,27 +96,6 @@ These insights demonstrate the potential for integrating predictive models into 
 
 ---
 
-## Repository Structure
-traffic-accident-severity-prediction
-│
-├── notebook.ipynb
-├── dataset_sample.csv
-│
-├── figures
-│ ├── figure1.png
-│ ├── figure2.png
-│ ├── figure3.png
-│ ├── figure4.png
-│ ├── figure5.png
-│ └── figure6.png
-│
-├── report.pdf
-├── requirements.txt
-└── README.md
-
-
----
-
 ## Technologies Used
 
 - Python
@@ -161,6 +136,4 @@ U.S. Department of Transportation.
 
 ## Author
 
-**Arulsree Mozhi**  
-Master of Science in Data Science  
-Bellevue University
+**Arulsree Mozhi** 
