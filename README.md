@@ -55,6 +55,8 @@ This project analyzes childcare costs across the United States using the Nationa
 **Outcome:**  
 Identified key affordability challenges, including high infant care costs in states like California, Massachusetts, and New York, where expenses can exceed 25% of household income. Produced actionable visualizations and reports to inform policymakers, parents, and advocacy groups about childcare cost trends and disparities.  
 
+[Source Code](https://github.com/Arulsree15/Arulsree_MSDS_Portfolio/tree/main/Childcare%20Affordability%20Challenges%20in%20the%20United%20States)
+
 ---
 
 ### House Price Prediction Using the Ames Housing Dataset
@@ -67,6 +69,8 @@ This project develops machine learning models to predict house prices using the 
 
 **Outcome:**  
 Created predictive models that explain a significant portion of variance in house prices (R² ≈ 0.82). Identified key features affecting pricing, evaluated model performance with multiple metrics, and provided recommendations for improvement including advanced feature engineering, model tuning, and potential use of more complex algorithms like XGBoost or neural networks.  
+
+[Source Code](https://github.com/Arulsree15/Arulsree_MSDS_Portfolio/tree/main/House%20Price%20Prediction%20Using%20the%20Ames%20Housing%20Dataset)
 
 ---
 
@@ -81,6 +85,8 @@ This project focuses on building a predictive model to assess the likelihood of 
 **Outcome:**  
 Developed a logistic regression model to predict employee attrition with strong overall performance, achieving 90.14% accuracy and ROC AUC score of 0.7951. Key features, including role stability and interaction terms such as work-life balance × job satisfaction, improved predictive power. Analysis revealed younger employees, certain departments, lower job satisfaction, and longer commute distances increase attrition risk. Insights inform actionable HR strategies like engagement initiatives, career development, and flexible work policies.  
 
+[Source Code](https://github.com/Arulsree15/Arulsree_MSDS_Portfolio/tree/main/Predicting%20Employee%20Attrition%20in%20Remote%20Work%20Environments)
+
 ---
 
 ### Deep Dive into Customer Demographics and Behavior
@@ -94,6 +100,8 @@ This project analyzes how family composition and demographic characteristics inf
 **Outcome:**  
 Found that most households have 0–1 child/teenager, and purchase recency is skewed toward recent activity. Regression showed income, household composition, and age were not significant predictors. Insights provide understanding of customer demographics, inform marketing strategies, and highlight areas for improved predictive modeling.  
 
+[Source Code](https://github.com/Arulsree15/Arulsree_MSDS_Portfolio/tree/main/Deep%20Dive%20into%20Customer%20Demographics%20and%20Behavior)
+
 ---
 
 ### Mental Health Impacts of Social Media Usage among Young Adults
@@ -105,7 +113,9 @@ Investigates how social media usage influences stress, anxiety, and depression a
 **Key Skills:** Data cleaning, EDA, clustering, regression modeling, predictive analytics, demographic segmentation  
 
 **Outcome:**  
-Identified user clusters and patterns correlating social media engagement with mental health indicators. Differences across sex, age, and ethnicity were observed. Findings support targeted interventions and strategies for healthier digital habits.  
+Identified user clusters and patterns correlating social media engagement with mental health indicators. Differences across sex, age, and ethnicity were observed. Findings support targeted interventions and strategies for healthier digital habits. 
+
+[Source Code](https://github.com/Arulsree15/Arulsree_MSDS_Portfolio/tree/main/Mental%20Health%20Impacts%20of%20Social%20Media%20Usage%20among%20Young%20Adults)
 
 ---
 
@@ -120,6 +130,8 @@ Developed a Python program to retrieve real-time weather information for U.S. ci
 **Outcome:**  
 Functional application capable of retrieving and presenting accurate weather data, handling input errors gracefully. Can be extended to dashboards or integrated into other systems.  
 
+[Source Code](https://github.com/Arulsree15/Arulsree_MSDS_Portfolio/tree/main/Weather%20Data%20Retrieval%20and%20Analysis%20Using%20OpenWeatherMap%20API)
+
 ---
 
 ### Fake News Detection Using Machine Learning
@@ -133,6 +145,8 @@ Applied machine learning to detect fake news using textual, sentiment, readabili
 **Outcome:**  
 Developed a high-accuracy ML pipeline capable of distinguishing fake vs. real news. Random Forest achieved perfect classification on the dataset. Key predictors and ethical AI safeguards were highlighted.  
 
+[Source Code](https://github.com/Arulsree15/Arulsree_MSDS_Portfolio/tree/main/Fake%20News%20Detection%20Using%20Machine%20Learning)
+
 ---
 
 ### Predicting Traffic Accident Severity Using Machine Learning
@@ -145,6 +159,8 @@ Developed models to predict accident severity using historical US accident data,
 
 **Outcome:**  
 Achieved ~82% accuracy. Key predictors included visibility, weather, time of day, and roadway features. Visualizations and insights support ADAS and transportation safety planning.  
+
+[Source Code](https://github.com/Arulsree15/Arulsree_MSDS_Portfolio/tree/main/Predicting%20Traffic%20Accident%20Severity%20Using%20Machine%20Learning)
 
 ---
 
@@ -161,6 +177,8 @@ Data analysis, workforce analytics, classification modeling, data visualization,
 
 **Outcome:**  
 The analysis revealed that AI adoption is highest among data scientists, machine learning engineers, and full-stack developers. Results highlight the growing importance of AI-related skills and suggest that mid-to-senior level developers are more likely to integrate AI tools into their workflows.
+
+[Source Code](https://github.com/Arulsree15/Arulsree_MSDS_Portfolio/tree/main/Artificial%20Intelligence%20and%20the%20Changing%20IT%20Workforce)
 
 ---
 
