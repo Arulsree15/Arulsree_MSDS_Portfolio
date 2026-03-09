@@ -23,7 +23,7 @@ I am also pursuing a Master of Science in Data Science (expected March 2026), wi
 7. [Weather Data Retrieval and Analysis Using OpenWeatherMap API](#weather-data-retrieval-and-analysis-using-openweathermap-api)  
 8. [Fake News Detection Using Machine Learning](#fake-news-detection-using-machine-learning)  
 9. [Predicting Traffic Accident Severity Using Machine Learning](#predicting-traffic-accident-severity-using-machine-learning)  
-10. [Artificial Intelligence and the Changing IT Workforce](#placeholder-project-2-–-course-project-tbd)  
+10. [Artificial Intelligence and the Changing IT Workforce](#artificial-intelligence-and-the-changing-it-workforce) 
 
 ---
 
@@ -146,12 +146,19 @@ Achieved ~82% accuracy. Key predictors included visibility, weather, time of day
 
 ---
 
-### Placeholder Project 2 – Course Project TBD
-**Project Overview:** This is a placeholder for an upcoming course project.  
+### Artificial Intelligence and the Changing IT Workforce
 
-**Tools & Technologies:** TBD  
+**Project Overview:**  
+Analyzed how artificial intelligence is transforming the IT workforce by examining AI adoption patterns, job roles, and experience levels among developers. The project used survey data and job trend datasets to understand which IT roles are most impacted by AI tools and how workforce skills are evolving.
 
-**Outcome:** TBD  
+**Tools & Technologies:**  
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Data Visualization, Classification Models, Jupyter Notebook
+
+**Key Skills:**  
+Data analysis, workforce analytics, classification modeling, data visualization, technology trend analysis, predictive analytics
+
+**Outcome:**  
+The analysis revealed that AI adoption is highest among data scientists, machine learning engineers, and full-stack developers. Results highlight the growing importance of AI-related skills and suggest that mid-to-senior level developers are more likely to integrate AI tools into their workflows.
 
 ---
 
