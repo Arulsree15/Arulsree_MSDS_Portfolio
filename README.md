@@ -23,7 +23,7 @@ I am also pursuing a Master of Science in Data Science (expected March 2026), wi
 7. [Weather Data Retrieval and Analysis Using OpenWeatherMap API](#weather-data-retrieval-and-analysis-using-openweathermap-api)  
 8. [Fake News Detection Using Machine Learning](#fake-news-detection-using-machine-learning)  
 9. [Predicting Traffic Accident Severity Using Machine Learning](#predicting-traffic-accident-severity-using-machine-learning)  
-10. [Placeholder Project 2 – Course Project TBD](#placeholder-project-2-–-course-project-tbd)  
+10. [Artificial Intelligence and the Changing IT Workforce](#placeholder-project-2-–-course-project-tbd)  
 
 ---
 

@@ -1,0 +1,64 @@
+{
+  "job_id": "ftjob-ldjwIMwfiPBA5M84Em5kTkVt",
+  "fine_tuned_model": "ft:gpt-3.5-turbo-0125:personal::CXcXRFZv",
+  "job_status": {
+    "object": "fine_tuning.job",
+    "id": "ftjob-ldjwIMwfiPBA5M84Em5kTkVt",
+    "model": "gpt-3.5-turbo-0125",
+    "created_at": 1762128572,
+    "finished_at": 1762128998,
+    "fine_tuned_model": "ft:gpt-3.5-turbo-0125:personal::CXcXRFZv",
+    "organization_id": "org-eya8aD2fHLxgX7jOetdOPB1j",
+    "result_files": [
+      "file-7N4LSaXoU6MJCu4PCGgYX6"
+    ],
+    "status": "succeeded",
+    "validation_file": null,
+    "training_file": "file-UPu8jGQCZgxLvqDD5XcZ1v",
+    "hyperparameters": {
+      "n_epochs": 5,
+      "batch_size": 1,
+      "learning_rate_multiplier": 2
+    },
+    "trained_tokens": 8025,
+    "error": {},
+    "user_provided_suffix": null,
+    "seed": 1284470115,
+    "estimated_finish": null,
+    "integrations": [],
+    "metadata": null,
+    "usage_metrics": null,
+    "shared_with_openai": false,
+    "eval_id": null,
+    "method": {
+      "type": "supervised",
+      "supervised": {
+        "hyperparameters": {
+          "n_epochs": 5,
+          "batch_size": 1,
+          "learning_rate_multiplier": 2.0
+        }
+      }
+    }
+  },
+  "test_prompts": [
+    "Create a 5-day vegetarian meal plan for muscle gain.",
+    "Provide a ketogenic diet meal plan for a 30-year-old male.",
+    "Suggest a 7-day Indian-style meal plan for weight loss."
+  ],
+  "fine_tuned_outputs": [
+    "Day 1: Breakfast - Greek yogurt with chia seeds and honey; Lunch - Quinoa salad with chickpeas, spinach, and feta; Dinner - Baked tofu with sweet potato and broccoli; Snacks - Nuts, fruits. Day 2-5: Similar protein-rich meals with varied vegetables, legumes, and whole grains. Ensure calorie surplus for muscle gain.",
+    "Breakfast: Scrambled eggs with spinach cooked in coconut oil. Lunch: Grilled chicken salad with olive oil dressing. Dinner: Baked salmon with asparagus. Snacks: Almonds, celery with cream cheese. Keep carbs below 50g/day.",
+    "Sure, here is a sample 7-day meal plan: \n\nDay 1: Breakfast - Vegetable oats upma; Lunch - Grilled chicken salad; Dinner - Dal with brown rice; Snacks - Fruits, Nuts. Day 2: ... (similar pattern for other days). Ensure a calorie deficit and balanced macronutrients."
+  ],
+  "base_model_outputs": [
+    "Sure! Here is a 5-day vegetarian meal plan for muscle gain:\n\nDay 1:\n- Breakfast: Scrambled tofu with spinach and cherry tomatoes, whole grain toast\n- Snack: Greek yogurt with mixed berries and a sprinkle of chia seeds\n- Lunch: Lentil and vegetable stir-fry with brown rice\n- Snack: Hummus with sliced bell peppers and whole grain crackers\n- Dinner: Black bean and sweet potato tacos with avocado and salsa\n\nDay 2:\n- Breakfast: Protein-packed smoothie with banana, spinach, almond butter, and protein powder\n- Snack: Homemade trail mix with nuts, seeds, and dried fruit\n- Lunch: Quinoa salad with chickpeas, cucumbers, cherry tomatoes, and feta cheese\n- Snack: Cottage cheese with pineapple chunks\n- Dinner: Eggplant and lentil curry with quinoa\n\nDay 3:\n- Breakfast: Overnight oats with almond milk, chia seeds, and sliced bananas\n- Snack: Apple slices with almond butter\n- Lunch: Vegetable and tofu stir-fry with quinoa\n- Snack: Edamame with a sprinkle of sea salt\n- Dinner: Lentil and mushroom stuffed bell peppers with a side of roasted sweet potatoes\n\nDay 4:\n- Breakfast: Avocado toast with poached eggs and arugula\n- Snack: Protein bar or shake\n- Lunch: Chickpea and vegetable buddha bowl with tahini dressing\n- Snack: Greek yogurt with honey and walnuts\n- Dinner: Spaghetti squash with marinara sauce and vegetarian meatballs\n\nDay 5:\n- Breakfast: Protein pancakes with Greek yogurt and mixed berries\n- Snack: Carrot sticks with hummus\n- Lunch: Black bean and corn salad with avocado and lime dressing\n- Snack: Cottage cheese with sliced peaches\n- Dinner: Tofu and vegetable stir-fry with brown rice\n\nRemember to stay hydrated throughout the day and adjust portion sizes according to your individual needs and activity level. Additionally, consider incorporating strength training exercises into your workout routine to support muscle growth.",
+    "Sure! Here is a sample ketogenic diet meal plan for a 30-year-old male:\n\nBreakfast:\n- Scrambled eggs cooked in coconut oil with spinach and feta cheese\n- Bulletproof coffee (coffee blended with MCT oil and grass-fed butter)\n\nLunch:\n- Grilled chicken breast with avocado and mixed greens salad drizzled with olive oil and lemon juice\n- Side of roasted broccoli\n\nSnack:\n- Handful of mixed nuts (almonds, walnuts, and macadamia nuts)\n\nDinner:\n- Baked salmon with garlic butter sauce\n- Cauliflower rice stir-fried with bell peppers, onions, and tofu\n- Side of steamed asparagus\n\nRemember to drink plenty of water throughout the day and listen to your body's hunger cues. This meal plan is just a starting point, and you can adjust portion sizes and food choices based on your individual needs and preferences.",
+    "Sure! Here is a sample 7-day Indian-style meal plan for weight loss:\n\nDay 1:\n- Breakfast: Oats porridge with skim milk and sliced strawberries\n- Snack: Roasted chickpeas\n- Lunch: Grilled chicken salad with mixed greens, cucumber, and cherry tomatoes\n- Snack: Greek yogurt with a sprinkle of cinnamon\n- Dinner: Dal (lentil curry) with brown rice and a side of steamed broccoli\n\nDay 2:\n- Breakfast: Whole wheat toast with avocado and poached eggs\n- Snack: Mixed nuts\n- Lunch: Quinoa and vegetable stir-fry\n- Snack: Apple slices with almond butter\n- Dinner: Grilled fish with spinach and a side of whole wheat roti\n\nDay 3:\n- Breakfast: Smoothie with spinach, banana, and almond milk\n- Snack: Carrot sticks with hummus\n- Lunch: Chickpea curry (Chana masala) with quinoa\n- Snack: Cottage cheese with cucumber slices\n- Dinner: Stir-fried tofu with mixed vegetables and brown rice\n\nDay 4:\n- Breakfast: Ragi (finger millet) dosa with coconut chutney\n- Snack: Roasted edamame\n- Lunch: Lentil soup with a side of mixed salad\n- Snack: Greek yogurt with honey\n- Dinner: Grilled paneer tikka with bell peppers and onions\n\nDay 5:\n- Breakfast: Poha (flattened rice) with peas and peanuts\n- Snack: Cherry tomatoes\n- Lunch: Vegetable biryani with raita\n- Snack: Sliced mango\n- Dinner: Grilled shrimp with quinoa and sautéed spinach\n\nDay 6:\n- Breakfast: Moong dal chilla (pancake) with mint chutney\n- Snack: Roasted pumpkin seeds\n- Lunch: Spinach and mushroom curry with brown rice\n- Snack: Pear slices\n- Dinner: Chicken kebabs with grilled zucchini and whole wheat roti\n\nDay 7:\n- Breakfast: Muesli with low-fat yogurt and berries\n- Snack: Roasted chickpeas\n- Lunch: Tofu and vegetable stir-fry with quinoa\n- Snack: Almonds\n- Dinner: Grilled fish with steamed asparagus and a side of whole wheat roti\n\nRemember to drink plenty of"
+  ],
+  "token_counts": [
+    51,
+    32,
+    45
+  ]
+}
