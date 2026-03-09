@@ -1,6 +1,6 @@
 # Arulsree Mozhi, TS | MS Data Science Portfolio
 
-## About Me
+## About Me  
 
 Senior ETL Developer | Data Professional | SQL • Teradata • Oracle • Redshift • Airflow • MSTR 
 
