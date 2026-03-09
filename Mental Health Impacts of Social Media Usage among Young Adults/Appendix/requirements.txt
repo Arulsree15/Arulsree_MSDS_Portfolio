@@ -1,0 +1,17 @@
+tidyverse
+caret
+ggplot2
+cowplot
+gridExtra
+RColorBrewer
+ggpubr
+corrplot
+heatmaply
+ggrepel
+knitr
+kableExtra
+lubridate
+readxl
+writexl
+cluster
+forcats
