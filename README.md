@@ -40,6 +40,8 @@ This project focuses on developing a generative AI assistant that creates person
 **Outcome:**  
 Established a working foundation for a personalized nutrition assistant capable of generating meal plans and nutritional insights. Identified areas for improvement such as calorie accuracy and personalization and outlined a fine-tuning process to support deployment as a Streamlit web application.  
 
+[Source Code]([https://github.com/Karthika-MSDS/KarthikaV_Portfolio/tree/main/Projects/Weather_Project](https://github.com/Arulsree15/Arulsree_MSDS_Portfolio/tree/main/Fine-Tuning%20a%20Generative%20AI%20Model%20for%20Personalized%20Meal%20Planning%20and%20Nutritional%20Coaching))
+
 ---
 
 ### Childcare Affordability Challenges in the United States
